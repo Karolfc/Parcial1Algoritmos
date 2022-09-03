@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "username": "Margaret Dune",
+        "age": "30",
+        "distance": "5 km",
+        "description": "Huge fan of Netflix and chill",
+        "photouser": "<img src=https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 2,
+        "username": "Bryan Adams",
+        "age": "26",
+        "distance": "20 km",
+        "description": "Animal lover 4ever",
+        "photouser": "<img src=https://images.pexels.com/photos/7533347/pexels-photo-7533347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 3,
+        "username": "Lara Poe",
+        "age": "28",
+        "distance": "19 km",
+        "description": "Always free for a cup of coffee",
+        "photouser": "<img src=https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 4,
+        "username": "Clara Walters",
+        "age": "23",
+        "distance": "45 km",
+        "description": "Nothing like fresh air",
+        "photouser": "<img src=https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 5,
+        "username": "Diego Barillas",
+        "age": "29",
+        "distance": "19 km",
+        "description": "Living without music is impossible",
+        "photouser": "<img src=https://images.pexels.com/photos/905375/pexels-photo-905375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 6,
+        "username": "Kang Choi",
+        "age": "32",
+        "distance": "39 km",
+        "description": "Posting the coolest photograph",
+        "photouser": "<img src=https://images.pexels.com/photos/1153334/pexels-photo-1153334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 7,
+        "username": "James Gales",
+        "age": "35",
+        "distance": "9 km",
+        "description": "Let's go somewhere only we know",
+        "photouser": "<img src=https://images.pexels.com/photos/3116018/pexels-photo-3116018.jpeg>"
+    },
+    {
+        "id": 8,
+        "username": "Gloria Adams",
+        "age": "43",
+        "distance": "28 km",
+        "description": "Making my own rules",
+        "photouser": "<img src=https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 9,
+        "username": "Vanessa Connor",
+        "age": "24",
+        "distance": "1 km",
+        "description": "Wanna go for a walk?",
+        "photouser": "<img src=https://images.pexels.com/photos/3863525/pexels-photo-3863525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    },
+    {
+        "id": 10,
+        "username": "Ryan Evans",
+        "age": "31",
+        "distance": "14 km",
+        "description": "Pineapple on pizza lover",
+        "photouser": "<img src=https://images.pexels.com/photos/3297861/pexels-photo-3297861.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1>"
+    }
+]
